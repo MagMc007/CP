@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"c:\\CSEC-CPD\\Contests\\contest1\\E.py","tests":[{"id":1773774690518,"input":"3 3\n2 1\n1 2 3\n3 4 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CSEC-CPD\\Contests\\contest1\\E.py","group":"local","local":true}
