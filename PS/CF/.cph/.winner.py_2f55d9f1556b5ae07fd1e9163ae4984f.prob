@@ -1,0 +1,1 @@
+{"name":"Local: winner","url":"c:\\CSEC-CPD\\PS\\CF\\winner.py","tests":[{"id":1776605124975,"input":"3\nmike 10\nandrew 5\nmike -6","output":""},{"id":1776605709516,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CSEC-CPD\\PS\\CF\\winner.py","group":"local","local":true}
