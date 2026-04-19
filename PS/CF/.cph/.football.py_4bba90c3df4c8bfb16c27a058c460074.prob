@@ -1,0 +1,1 @@
+{"name":"Local: football","url":"c:\\CSEC-CPD\\PS\\CF\\football.py","tests":[{"id":1776608683062,"input":"1\nABC\n","output":""},{"id":1776611020689,"input":"3\nXZYDJAEDZ\nXZYDJAEDZ\nXZYDJAEDZ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\CSEC-CPD\\PS\\CF\\football.py","group":"local","local":true}
